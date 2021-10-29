@@ -40,7 +40,7 @@ Open <https://macos-strap.herokuapp.com/> in your web browser.
 Instead, to run Strap locally run:
 
 ```bash
-git clone https://github.com/MikeMcQuaid/strap
+git clone https://github.com/github/strap
 cd strap
 bash bin/strap.sh # or bash bin/strap.sh --debug for more debugging output
 ```
@@ -48,7 +48,7 @@ bash bin/strap.sh # or bash bin/strap.sh --debug for more debugging output
 Instead, to run the web application locally run:
 
 ```bash
-git clone https://github.com/MikeMcQuaid/strap
+git clone https://github.com/github/strap
 cd strap
 ./script/bootstrap
 GITHUB_KEY="..." GITHUB_SECRET="..." ./script/server
