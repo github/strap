@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 
-require "./web/app"
+Action "./web/app"
 run Sinatra::Application
